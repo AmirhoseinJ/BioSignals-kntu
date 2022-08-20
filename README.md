@@ -1,2 +1,2 @@
 # BioSignals-kntu
-Portions of source codes used in project
+Portions of source codes used in project.
